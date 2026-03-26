@@ -13,3 +13,10 @@ its a midi controller i made to use with a DAW program, its firmware using circu
 
 
 https://www.tinkercad.com/things/4G5PN0rRYm5-midi-controller-v2
+
+# BOM
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+|------|---------|----------|-----------------|------|-------------|
+| switch | switch | 30 | $10.00 | [stackskb.com](https://stackskb.com/store/ttc-low-profile-brown-switches-tactile/) | stacks |
+| rpi pico | mcu | 1 | $7.00 | [robu](https://www.google.com/search?client=firefox-b-d&q=rpi+pico+robu) | robu |
+| pcb | pcb | 1 | $30.00 | [lioncircuits.com](https://www.lioncircuits.com/quote) | lion pcb |
