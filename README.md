@@ -1,5 +1,5 @@
 # midi-controller
-its a midi controller i made to use with a DAW program, its firmware using circuit python! theres 25 keys, 6 encoders and 4 sliders. 
+its a midi controller i made to use with a DAW program, its firmware was made using circuit python! theres 25 keys, 6 encoders and 4 sliders. 
 
 # Images
 
