@@ -8,6 +8,7 @@ tldr: its a smaller more weirder keyboard that can help you make music!
 - 4 sliders
 - 25 macro keys
 - rp2040 based micro controller 
+- choc switches
 # Images
 
 <img width="626" height="335" alt="Screenshot from 2026-03-26 12-45-57" src="https://github.com/user-attachments/assets/82e0f18f-ef52-416c-bfd1-331f27b09d3b" />
