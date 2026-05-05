@@ -1,5 +1,9 @@
 # midi-controller
+A MIDI keyboard is basically just a controller. You can use it to trigger notes on a synth or plugin, you can assign the encoder to volume, LFO rate or anything else. So if you don't connect it to anything you won't get any sound. tldr: its a smaller more weirder keyboard that can help you make music!
+
 its a midi controller i made to use with a DAW program, its firmware was made using circuit python! theres 25 keys, 6 encoders and 4 sliders. 
+
+
 # features
 - LCD display for menu display
 - 6 rotary knobs for menu/Midi control
