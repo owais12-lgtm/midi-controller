@@ -3,6 +3,7 @@ A MIDI keyboard is basically just a controller. You can use it to trigger notes 
 
 tldr: its a smaller more weirder keyboard that can help you make music!
 
+
 # features
 - 6 rotary knobs for menu/Midi control
 - 4 sliders
