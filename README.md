@@ -1,10 +1,11 @@
 # midi-controller
 its a midi controller i made to use with a DAW program, its firmware was made using circuit python! theres 25 keys, 6 encoders and 4 sliders. 
 # features
-LCD display for menu display
-2 rotary knobs for menu/Midi control
-25 macro keys
-rp2040 based micro controller 
+-LCD display for menu display
+-6 rotary knobs for menu/Midi control
+-4 sliders
+-25 macro keys
+-rp2040 based micro controller 
 # Images
 
 <img width="626" height="335" alt="Screenshot from 2026-03-26 12-45-57" src="https://github.com/user-attachments/assets/82e0f18f-ef52-416c-bfd1-331f27b09d3b" />
